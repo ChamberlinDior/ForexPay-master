@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ForexPay-master/ForexPay.iml" filepath="$PROJECT_DIR$/ForexPay-master/ForexPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ForexPay-master.iml" filepath="$PROJECT_DIR$/.idea/ForexPay-master.iml" />
+    </modules>
+  </component>
+</project>
